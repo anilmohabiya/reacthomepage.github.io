@@ -31,18 +31,15 @@ const Footer =()=>{
                         <h3>Special Categories</h3>
                       
                         <ul>
-                        <li>Mens</li>
-                        <li>Womens</li>
-                        <li>Kids</li>
-                        <li>Electronics</li>
-                        <li>Other Product</li>
+                        <li>FAQ</li>
+                        <li>Sitemap</li>
+                        <li>Policy</li>
                         </ul>
                     </div>
                     <div class="col-sm-6 col-md-3 item col-6">
                         <h3>Quick Links</h3>
                         <ul>
-                        <li>My orders</li>
-                        <li>My Account</li>
+                        <li>Hospitals</li>
                         </ul>
                     </div>
                    
