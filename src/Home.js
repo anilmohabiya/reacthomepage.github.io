@@ -42,10 +42,10 @@ const Home =()=>{
 </div>
           { /*left side div*/}
           <div class="col-md-6 col-12 main_header_left mt-2 ">
-         <h2>Sales upto 31st January</h2><br/>
-             <h3 >CASUAL SPORT SHOES</h3>
+         <h2>VIEW OUR FACILITY</h2><br/>
+             <h3 >HUMAN SAFTEY OUR PROMISE</h3>
          
-             <p>Enjoy the world of shopping online</p>
+             <p>EVERY Treatment facility Avilable</p>
      
             
             
