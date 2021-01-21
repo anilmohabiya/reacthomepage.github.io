@@ -43,7 +43,7 @@ const Home =()=>{
           { /*left side div*/}
           <div class="col-md-6 col-12 main_header_left mt-2 ">
          <h2>VIEW OUR FACILITY</h2><br/>
-             <h3 >HUMAN SAFTEY OUR PROMISE</h3>
+             <h3 >HUMAN SAFTEY </h3>
          
              <p>EVERY Treatment facility Avilable</p>
      
